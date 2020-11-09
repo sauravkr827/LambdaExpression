@@ -1,4 +1,4 @@
-package nendrasys.lambdaExpression;
+package com.nendrasys.lambdaExpression;
 
 
 
